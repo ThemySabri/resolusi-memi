@@ -8,5 +8,5 @@ Rencana di Kampus
  * Belajar HTML, CSS, Javascript
  * Framework Javascript
   ^ React 
-  ^ Vue
+  ^ Angular
  * Belajar Node JS
