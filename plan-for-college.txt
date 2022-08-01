@@ -4,9 +4,9 @@ Rencana di Kampus
   * Join UKM buat overclocking
 - Aktif di kelas
 - Gencar buat nambah relasi
-- Belajar Coding
+- Belajar coding
  * Belajar HTML, CSS, Javascript
- * Belajar framework Javascript
+ * Framework Javascript
+  ^ React 
   ^ Angular
-  ^ React
- * Belajar PHP
+ * Belajar Node JS
