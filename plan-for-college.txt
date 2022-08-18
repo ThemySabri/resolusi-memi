@@ -4,6 +4,7 @@ Rencana di Kampus
 - Aktif di kelas
 - Gencar buat nambah relasi
 - Belajar coding
+ * Belajar bahasa C
  * Belajar HTML, CSS, Javascript
  * Framework Javascript
   ^ React 
