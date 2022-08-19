@@ -1,0 +1,17 @@
+TO DO LIST 
+- Belajar bahasa C
+- Belajar web programming 
+  Front-end:
+  * HTML
+  * CSS
+  * Javascript
+    Javascript frameworks: 
+    ^ Angular JS
+    ^ React JS
+    ^ Vue JS
+  Back-end:
+  * NodeJS
+  * PHP 
+- Eksplor perpustakaan 
+
+  

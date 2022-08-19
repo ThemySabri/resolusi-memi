@@ -1,12 +1,4 @@
 Rencana di Kampus
 - Join UKM di kampus
-  * Join UKM programming
 - Aktif di kelas
 - Gencar buat nambah relasi
-- Belajar coding
- * Belajar bahasa C
- * Belajar HTML, CSS, Javascript
- * Framework Javascript
-  ^ React 
-  ^ Angular
- * Belajar Node JS
