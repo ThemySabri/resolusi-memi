@@ -5,6 +5,10 @@ TO DO LIST
   * HTML
   * CSS
   * Javascript
+    Javascript frameworks: 
+    ^ Angular JS
+    ^ React JS
+    ^ Vue JS
   Back-end:
   * NodeJS
   * PHP 
